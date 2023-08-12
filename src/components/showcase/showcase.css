@@ -58,6 +58,7 @@
 
   .showcase_header{
     width: 100%;
+    padding: 0px;
   }
   .showcase_header h1{
     margin: 0;
@@ -81,7 +82,6 @@
   }
   .showcase_footer{
     width: 100%;
-    transform: scaleX(1.13);
   }
   .arrivals:hover:after{
     width: 0px;
